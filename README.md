@@ -9,6 +9,6 @@
 -Controller dosyası içinden "connect.php" içinden oluşturduğunuz tablo adını güncelleyiniz.
 
 ## Test
-[Sunucu](https://muratbariskoroglu.com/coordinate/sunucu.php) - Sunucu erişim linki
+[Server](https://muratbariskoroglu.com/coordinate/sunucu.php) - Sunucu erişim linki
 
 [Client](https://muratbariskoroglu.com/coordinate/client.php) - Client erişim linki

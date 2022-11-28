@@ -26,6 +26,6 @@ Cihaza istekler gönderildikten sonra cihaz nihai konumunu aldığında son konu
 
 ## Açıklama
 
-- Sunucu tarafından yön tuşlarına tıklandığı zaman x, y veya z inputlatı koordinat verilerini almaktadır fakat anlık olarak client kısmına point'in hareketi için veri gitmemektedir. 
+- Sunucu tarafından yön tuşlarına tıklandığı zaman x, y veya z inputları koordinat verilerini almaktadır fakat anlık olarak client kısmına point'in hareketi için veri gitmemektedir. 
 
 - Sunucu tarafından x, y veyaz z inputlarına koordinat verileri girildikten sonra gönder işlemiyle client kısmındaki point hareket etmektedir. Koordinat sisteminin altında koordinat verileri yazmaktadır.

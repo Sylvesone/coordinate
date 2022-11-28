@@ -24,7 +24,7 @@ Cihaza istekler gönderildikten sonra cihaz nihai konumunu aldığında son konu
 
 [Client](https://muratbariskoroglu.com/coordinate/client.php) - Client erişim linki
 
-##Açıklama
+## Açıklama
 
 - Sunucu tarafından yön tuşlarına tıklandığı zaman x, y veya z inputlatı koordinat verilerini almaktadır fakat anlık olarak client kısmına point'in hareketi için veri gitmemektedir. 
 

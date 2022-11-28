@@ -2,7 +2,7 @@
 
 ## Kurulum
 
--Tüm dosya ve klasörleri "coordinate" klasöründen sunucunuza yükleyin, web kök dizininize yerleştirin. Web kökü bazı sunucularda farklıdır, cPanel'de public_html/ve Plesk'te httpdocs/.
+-Tüm dosya ve klasörleri "coordinat" klasöründen sunucunuza yükleyin, web kök dizininize yerleştirin. Web kökü bazı sunucularda farklıdır, cPanel'de public_html/ve Plesk'te httpdocs/.
 
 -localhost/phpmyadmin link üzerinden "sql" dosyası içindeki xyz.sql dosyasını veritabanınıza tablo oluşturduktan sonra import ediniz.
 
